@@ -1,3 +1,4 @@
+/*настройки доп. информации*/
 import "../styles.css";
 import { CategoryListProvider } from "../use-category-list";
 
